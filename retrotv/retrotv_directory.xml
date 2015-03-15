@@ -1,0 +1,138 @@
+﻿#######################################################################################################################################
+<poster>MafiaTVRepo</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+
+<dir>
+<name>Barney Miller (1974-1982)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/barney.xml</link>
+<thumbnail>http://ogrelikesstuff.files.wordpress.com/2011/07/key_art_barney_miller1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Batman (1966–1968)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/batman1966.xml</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTkzNDY5NTg5MF5BMl5BanBnXkFtZTgwNzI4NzM1MjE@._V1_SY317_CR16,0,214,317_AL_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Dean Martin Celebrity Roasts (1974-1984)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/deanmartin.xml</link>
+<thumbnail>https://timelife.com/system/cover_images/box_arts/000/000/479/full/Dean7-8-hostconfig.jpg?1377182424</thumbnail>
+</dir>
+
+<dir>
+<name>Dennis The Menace (1959–1963)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/dennis.xml</link>
+<thumbnail>http://3.bp.blogspot.com/-vOWBTolrSAM/TWxKyop2zKI/AAAAAAAAX-s/iBJM4WuomXM/s1600/DennisTheMenaceHeader.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Gomer Pyle: USMC (1964–1969)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/gomer.xml</link>
+<thumbnail>http://www.episodedata.com/images/series/gomerpyleusmc.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Green Hornet (1966)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/greenhornet.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/71C0mh4aotL._SL1500_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Hollywood Palace (1964–1970)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/palace.xml</link>
+<thumbnail>http://4.bp.blogspot.com/-eLc85ZIBorA/UWAWT0u55xI/AAAAAAAAEos/-6Nf2hhK2wg/s1600/hollywood-palace.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hogan's Heroes (1965–1971)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/hogans.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/91f1TqQXGML._SL1500_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>In Living Color (1990–1994)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/livingcolor.xml</link>
+<thumbnail>https://image-cdn.zap2it.com/images/in-living-color-fox.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Invaders (1967–1968)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/invaders.xml</link>
+<thumbnail>http://media-cache-ec0.pinimg.com/736x/98/9d/ed/989ded2c5f201ae7e055a1fb70ffebba.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Kolchak: The Night Stalker (1974–1975)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/nightstalker.xml</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEwMTEyMjgzMl5BMl5BanBnXkFtZTcwMDY2MTEzMQ@@._V1_SY317_CR9,0,214,317_AL_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Longstreet (1971–1972)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/longstreet.xml</link>
+<thumbnail>http://todayingarismind.com/wp-content/uploads/2014/07/tumblr_m88w4jegAO1rvjsk3o1_500.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Looney Tunes</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/loonytunes.xml</link>
+<thumbnail>http://cartoonsimages.com/sites/default/files/field/image/bugs-bunny-wallpaper-5-717428.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Night Gallery (1969-1973)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/nightgallery.xml</link>
+<thumbnail>http://www.weirdlittleworlds.com/wp-content/uploads/2013/10/Night_Gallery_Rod_Serling1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Planet Of The Apes (1974)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/planetapes.xml</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY1MzQ4ODc1M15BMl5BanBnXkFtZTcwMTU2NDkzMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Police Squad! (1982)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/policesquad.xml</link>
+<thumbnail>http://www.imfdb.org/images/thumb/e/e2/Psquad-dvd.jpg/300px-Psquad-dvd.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Rat Patrol (1966–1968)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/ratpatrol.xml</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY4ODI4OTQ1N15BMl5BanBnXkFtZTcwMTEwNjQ4NA@@._V1_SX214_AL_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>UFO (1970)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/ufo.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/5d/UFOTVDVDnew.jpg/200px-UFOTVDVDnew.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Wild Wild West (1965-1969)</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/wildwildwest.xml</link>
+<thumbnail>http://www.thewildwildwestbook.com/images/background2-72.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>COMING SOON</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/lucyshow/season6.xml</link>
+<thumbnail>http://3.bp.blogspot.com/-NZKc29f6Ijk/UkLwVq2EbdI/AAAAAAAAA-8/oW-9m_4w3LA/s1600/retro_tv_uk.png</thumbnail>
+</dir>
+
+<dir>
+<name>COMING SOON</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/lucyshow/season6.xml</link>
+<thumbnail>http://3.bp.blogspot.com/-NZKc29f6Ijk/UkLwVq2EbdI/AAAAAAAAA-8/oW-9m_4w3LA/s1600/retro_tv_uk.png</thumbnail>
+</dir>
+
+
+
+
+
+
+

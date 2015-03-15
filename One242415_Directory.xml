@@ -1,0 +1,343 @@
+﻿#######################################################################################################################################
+<poster>MafiaTVRepo</poster>
+<fanart>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/UJ2y2pEUG9/SATELLITES12.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>[COLOR=FF00FF00]Follow me on twitter @one242415</message>
+<thumbnail></thumbnail>
+</info>
+
+
+<notify>
+<new></new>
+<message1>MafiaTVRepo will be away from</message1>
+<message2>August 30-September 6 No updates will occur</message2>
+<message3>Thanks for your patience!!</message3>
+<old></old>
+</notify>
+##############################################################################################################################
+
+
+<name>Latest Releases</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/LatestRelease.xml</link>
+<thumbnail>http://s7.postimg.org/5paz1nlqj/skull256x256.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Christmas Films</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/xmas.xml</link>
+<thumbnail>http://s25.postimg.org/g2mrd2kan/santa.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Requests</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Misc/requests.xml</link>
+<thumbnail>http://s25.postimg.org/6k7z2fgzj/requests.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Films From Games</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/videogames.xml</link>
+<thumbnail>http://s25.postimg.org/75xqkj8lb/VGmovies.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Video Game Movies</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/cutscences.xml</link>
+<thumbnail>http://s25.postimg.org/i8l71xw73/gamemovies.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Video Game Trailers</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/gametrailers.xml</link>
+<thumbnail>http://s25.postimg.org/s6ns5gc3j/gametrailers.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>MONSTERS</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/monsters.xml</link>
+<thumbnail>http://s25.postimg.org/j7ymv6533/monsters1.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>GRINDHOUSE Theater</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/grindhouse.xml</link>
+<thumbnail>http://s25.postimg.org/f1mz7bk8v/ONEGrindhouse.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Blaxploitation</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/blax.xml</link>
+<thumbnail>http://s25.postimg.org/j0tdhmnnj/blaxploitation2.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>BATMAN: Animated Films</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/batman.xml</link>
+<thumbnail>http://s25.postimg.org/4h7zrm9fj/batman1.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>BEST FOOTBALL/SOCCER FILMS</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/football.xml</link>
+<thumbnail>http://s25.postimg.org/5ppwddx6n/football.png</thumbnail>
+<date>DAILY</date>
+
+<name>American Football Films</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/usafootball.xml</link>
+<thumbnail>http://s25.postimg.org/ju0xd4ncv/helmut.png</thumbnail>
+<date>DAILY</date>
+
+<name>Hockey Films</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/hockey.xml</link>
+<thumbnail>http://s25.postimg.org/6huei2x4v/lakingskull.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Retro TV</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/retrotv/retrotv_directory.xml</link>
+<thumbnail>http://s25.postimg.org/j7itscf5r/retrotv1.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>IMAX</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/imax.xml</link>
+<thumbnail>http://s25.postimg.org/h43zz1fzz/imax.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Peaky Blinders</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Misc/peaky.xml</link>
+<thumbnail>http://s25.postimg.org/z7um0kocf/peakyblinders.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>British Sitcoms</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/britsitcom/britsitcom_directory.xml</link>
+<thumbnail>http://s25.postimg.org/gyo29zxrz/UKsitcoms.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>British Stand-Up</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Misc/standupUK.xml</link>
+<thumbnail>http://s27.postimg.org/nok0m5u1f/standup_UK1.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Elvis Presley Filmography</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/elvis.xml</link>
+<thumbnail>http://s25.postimg.org/pzt6se2in/Elvis2.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Clint Eastwood Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/clinteastwood.xml</link>
+<thumbnail>http://s25.postimg.org/dq8gcznwf/clint_Eastwood.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Jack Nicholson Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/jackN.xml</link>
+<thumbnail>http://s25.postimg.org/7821e8csf/Jack_Nicholson.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Steven Seagal Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/seagal.xml</link>
+<thumbnail>http://s25.postimg.org/rt5s95jun/seagal_Collection.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Jason Statham Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/jasonstatham.xml</link>
+<thumbnail>http://s25.postimg.org/aummy0m2n/jasonstatham.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Stephen King Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/stephanking.xml</link>
+<thumbnail>http://s25.postimg.org/d55wv1txb/stephenking.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Abbott and Costello Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/budandlou.xml</link>
+<thumbnail>http://s25.postimg.org/761ogueyn/Abbott_Costello.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>WAR</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/war.xml</link>
+<thumbnail>http://s25.postimg.org/azrvgsla7/war.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>DISASTERS</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/disaster.xml</link>
+<thumbnail>http://s25.postimg.org/5pmwpi11b/disaster.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Erotic Thrillers</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/erotic.xml</link>
+<thumbnail>http://s25.postimg.org/6q9s58ibj/eroticthrillers.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>C.I.A.</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/cia.xml</link>
+<thumbnail>http://s25.postimg.org/b5jxlrdtr/cia_MOVIES.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Martial Arts</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/kungfu.xml</link>
+<thumbnail>http://s25.postimg.org/p8rwup48v/kungfu.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>ZOMBIE Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/zombies.xml</link>
+<thumbnail>http://s25.postimg.org/acq47y5rz/ZOMBIES.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>James Bond 007</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/007.xml</link>
+<thumbnail>http://s25.postimg.org/x4geuxjy7/007a.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>TCM 1940's</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/tcm1940.xml</link>
+<thumbnail>http://s25.postimg.org/9xyerx267/tcmlogo.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Biker Films</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/bikers.xml</link>
+<thumbnail>http://s25.postimg.org/m2lfqq2in/bikers.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Star Trek Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/startrek.xml</link>
+<thumbnail>http://s25.postimg.org/omm4hxwe7/startrek.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Animation</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/animated.xml</link>
+<thumbnail>http://s28.postimg.org/j6875kg59/animation2.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Scariest Movies Of All-Time</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/ScaryMovies.xml</link>
+<thumbnail>http://s25.postimg.org/ycm57a8u7/Scary_Movies.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Canadian Films</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/canadianfilms.xml</link>
+<thumbnail>http://s25.postimg.org/f3mt9zcfz/MIC.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Best Picture Oscars</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/oscars.xml</link>
+<thumbnail>http://s25.postimg.org/6ucqdj1z3/oscars.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Made For TV Movies</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/abcmovie.xml</link>
+<thumbnail>http://s25.postimg.org/7mhqp4vcv/abcmovie.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Disco Fever</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/discofever.xml</link>
+<thumbnail>http://s25.postimg.org/72l1hvj5r/discofever.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Black Entertainment</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/blackentertainment.xml</link>
+<thumbnail>http://s25.postimg.org/lf5aopoe7/blackentertainment.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Sports Films</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/sportsmovies.xml</link>
+<thumbnail>http://s25.postimg.org/6ho3fldbz/sportsmovies.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Movies Made For Women</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/janeausten.xml</link>
+<thumbnail>http://s25.postimg.org/nvgkr9o73/womenmovies.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Mafia/Gangster</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/mafiamovies.xml</link>
+<thumbnail>http://s25.postimg.org/cstaw0ekf/Mafia_Soundtrack_mafia1.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Superheros</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/superhero.xml</link>
+<thumbnail>http://s25.postimg.org/spifhvb9b/superheros.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Stand Up Comedy</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Misc/standupcomedy.xml</link>
+<thumbnail>http://s25.postimg.org/kk5fgttbz/standupcomedy.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Celebrity Roasts</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/roasts.xml</link>
+<thumbnail>http://s25.postimg.org/hs3bnvkcf/roasts.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Speed</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/fastcars.xml</link>
+<thumbnail>http://s25.postimg.org/ghssawxtr/fastcars.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Ultimate Western Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/ultimatewestern.xml</link>
+<thumbnail>http://s25.postimg.org/4zc1jvanz/western.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>LIVE in CONCERT</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Misc/liveconcert.xml</link>
+<thumbnail>http://s25.postimg.org/qrgtgzp33/LIVEINCONCERT_zps23f60c8b.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Cinema Italiano</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/CinemaItaliano/cinemaitaliano_directory.xml</link>
+<thumbnail>http://s25.postimg.org/84s22afy7/cinemaitaliano1.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Foreign Cinema</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/ForeignCinema/ForeignCinemaDirectory.xml</link>
+<thumbnail>http://s29.postimg.org/dotsj0w5z/foreigncinema.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Live Italian TV</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Foriegn/italianLiveTV.xml</link>
+<thumbnail>http://s25.postimg.org/pzfj3wzpb/italian_Live_TV.png</thumbnail>
+<date>DAILY</date>
+
+<name>Italian Series</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Foriegn/italianseries.xml</link>
+<thumbnail>http://s25.postimg.org/q4hwrgs73/images.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Best of Lifetime</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/lifetimebest.xml</link>
+<thumbnail>http://s25.postimg.org/mm5wv2rb3/Lifetime_logo_2012_reverse.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>The Twilight Zone</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/TwilightZone/twilightzone_directory.xml</link>
+<thumbnail>http://s25.postimg.org/v4jyd5n7j/twilightzone.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>The Twilight Zone 2002</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/TZ2002.xml</link>
+<thumbnail>http://s25.postimg.org/stbseqzsv/tz2002.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>TVLand</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/TVFirstEpisodes/TVFirstEpisodesDirectory.xml</link>
+<thumbnail>http://s25.postimg.org/so6p6hq67/tvland.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Ultimate Sci-Fi Collection</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/SciFi.xml</link>
+<thumbnail>http://origin.arstechnica.com/journals/thumbs.media/sci_fi_logo_150.gif</thumbnail>
+<date>DAILY</date>
+
+<name>Vampires</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/Vampires.xml</link>
+<thumbnail>http://www.risorseutili.com/albums/vampiri%20vampires/vampiri%20gif%20vampires%20glitter%2013.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>UFO</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Collections/UFOs.xml</link>
+<thumbnail>http://s25.postimg.org/c4zy71ef3/ufo.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>LGBT FILMS</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Movies/Lfilms.xml</link>
+<thumbnail>http://s25.postimg.org/gf86jdydb/les.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Twitter @MafiaTVRepo</name>
+<link>https://raw.github.com/mafiatv/MafiaTVRepo/master/Misc/twitter.xml</link>
+<thumbnail>http://s25.postimg.org/47m8n5cqn/twitterlogo.jpg</thumbnail>
+<date>DAILY</date>
+
+
+
+
